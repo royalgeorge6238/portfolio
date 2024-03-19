@@ -1,0 +1,45 @@
+* {
+    background-color: #24cdef;
+    
+    
+}
+
+.container {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 6rem;
+}
+
+.container .img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 15px solid #444;
+    box-shadow: 5px 7px 25px rgba(0, 0, 0, 0.5);
+}
+
+.name {
+    color: white;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+}
+
+.dr{
+   
+    
+    text-decoration: none;
+}
+.btn{
+    background-color: #00AFEF;
+    color: white;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    text-decoration: none;
+    
+}
